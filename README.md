@@ -1,5 +1,5 @@
 
-# Project Title
+# Discord.Js Typescript Command Handler
 
 A really simple command handler for discord bot using typescript, discord.js and glob!
 
